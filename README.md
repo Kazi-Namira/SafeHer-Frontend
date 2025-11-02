@@ -2,7 +2,7 @@
 
 [Live Demo](https://safe-her-bd.vercel.app/)
 
-SafeHer is a web-based platform designed to enhance women's safety in Bangladesh. The application provides real-time safety dashboards, interactive maps, and SOS alerts to help users navigate urban environments safely. SafeHer connects users with community resources, safety tips, and local support systems to ensure secure travel and immediate assistance when needed.
+**SafeHer** is a web-based platform designed to enhance women's safety in Bangladesh. The application provides real-time safety dashboards, interactive maps, and SOS alerts to help users navigate urban environments safely. SafeHer connects users with community resources, safety tips, and local support systems to ensure secure travel and immediate assistance when needed.
 
 ---
 
@@ -42,9 +42,14 @@ SafeHer is a web-based platform designed to enhance women's safety in Bangladesh
 
 Bangladesh faces a serious challenge regarding women’s safety in public spaces. SafeHer empowers women by providing tools to report incidents, visualize safety trends, and access vital resources, thereby contributing to a safer environment and raising awareness across communities.
 
+---
+
+
 ## Future Enhancements
 
 - User authentication and profiles
 - Machine learning for predictive safety alerts
 - Mobile app integration for instant notifications
 - Analytics dashboards for authorities
+  
+---
