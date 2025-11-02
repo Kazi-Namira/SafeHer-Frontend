@@ -36,9 +36,15 @@ SafeHer is a web-based platform designed to enhance women's safety in Bangladesh
 <img width="1912" height="559" alt="image" src="https://github.com/user-attachments/assets/85f2f4fa-df3c-4739-8335-df1baaa09d8d" />
 <img width="1908" height="893" alt="image" src="https://github.com/user-attachments/assets/0469632d-d9e5-4b03-bb10-5e004de93be4" />
 
-
-
-
-
-
 ---
+
+## Why This Project Matters
+
+Bangladesh faces a serious challenge regarding women’s safety in public spaces. SafeHer empowers women by providing tools to report incidents, visualize safety trends, and access vital resources, thereby contributing to a safer environment and raising awareness across communities.
+
+## Future Enhancements
+
+- User authentication and profiles
+- Machine learning for predictive safety alerts
+- Mobile app integration for instant notifications
+- Analytics dashboards for authorities
